@@ -56,17 +56,17 @@ Gameplay instructions :-
 
 ---
 
-# PS2 - Musical Cube — a simple 3D puzzle game
+# PS2 - 🧊 Musical Cube — a simple 3D puzzle game
 
 Musical cube is a **simple lightweight 3D puzzle game** made using **unity game engine** and textures made using mspaint, the only asset used in game was a background realstars skybox, but due to size limitations on github i removed it from the repository, tho the final build available on zip file in drive link still contains the skybox...!
 
 Right now there are only 14 levels but the game has endless possiblities and future scope for development. the original inspiration for the game came from a gym puzzle in a **pokemon GBA rom** , after that i built this one in **Fancade** using block coding..!
 
-## Themes incorporated
+## ✨ Themes incorporated
 
-1. Shapes - all our players and blocks are simple cubical shapes
-2. Simultaneous Control - in multi game mode you simultaneously control players
-3. Navigation - you need to navigate the cube properly to clear all the blocks
+1. 📐 Shapes - all our players and blocks are simple cubical shapes
+2. 🎮 Simultaneous Control - in multi game mode you simultaneously control players
+3. 🧩  Navigation - you need to navigate the cube properly to clear all the blocks
 
 ## Setup and Gameplay instructions 
 
