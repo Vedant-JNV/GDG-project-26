@@ -5,7 +5,7 @@ This repository contains projects submitted by me (Vedant) for GDG club IIT indo
 
 # PS1 - 🚀 Space Wars — Endless 2D shooting game
 
-**Youtube Demo:** [https://youtu.be/vWWKGAMI3LQ?si=njVZ2RkWjLZK5P0K]
+**Youtube Demo :-** [https://youtu.be/vWWKGAMI3LQ?si=njVZ2RkWjLZK5P0K]
 
 SpaceWars is a **Endless Space Adventure Game !** made using python language , **pygame library** and graphics sourced from internet which belong to their respective creators and the legendary pirates of caribbean bgm, the source code is in the repository along with all the required graphic and audio files, which can be run using any python interpreter, a final executable was also in the folder but defender considered it as a trojan horse or malware thus i removed the executable, you can still play by running main.py file.
 
@@ -57,6 +57,8 @@ Gameplay instructions :-
 ---
 
 # PS2 - 🧊 Musical Cube — a simple 3D puzzle game
+
+**Youtube Demo :-** [https://youtu.be/-F1eLzg9udg?si=BgGrIRw-cUIImkPW]
 
 Musical cube is a **simple lightweight 3D puzzle game** made using **unity game engine** and textures made using mspaint, the only asset used in game was a background realstars skybox, but due to size limitations on github i removed it from the repository, tho the final build available on zip file in drive link still contains the skybox...!
 
